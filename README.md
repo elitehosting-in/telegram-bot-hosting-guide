@@ -1,2 +1,2 @@
-# telegram-bot-hosting-guide
-Scripts and deployment guides for hosting bots on Elitehosting.in VPS.
+# Elite Hosting VPS Setup Guide
+Official website: https://elitehosting.in
